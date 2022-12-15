@@ -20,4 +20,4 @@ if(valor_compra > 5000){
     desconto = valor_compra * 0.05;
 }
 
-console.log('O valor de desconto a ser concedido para' , nome_cliente, 'será de' , desconto )
+console.log('O valor de desconto a ser concedido para', nome_cliente, 'será de R$', desconto, 'reais');
